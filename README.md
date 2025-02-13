@@ -44,8 +44,8 @@
 &nbsp;
 
 
-<div style="width: 100%; display: flex; justify-content: flex-end;">
-  <table style="text-align: right;">
+<div style="width: 80%; display: flex; justify-content: flex-end;">
+  <table style="width: 80%; text-align: right;"> 
     <tr>
       <td>Тестовая документация</td>
       <td>
