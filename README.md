@@ -2,7 +2,7 @@
 
 ## Обо мне:
 
-<img align="right" src="./octocat_detective.gif" width="370">
+<img align="right" src="./octocat_detective.gif" width="350">
 
 Привет! Меня зовут Настя, и я QA Engineer    <img width="30" height="30" src="https://img.icons8.com/nolan/96/hardworking--v2.png" alt="hardworking--v2"/>
 
@@ -37,7 +37,7 @@
 &nbsp;
 
 ## Инструменты, которые я использую
-<img align="left" src="./octocat_computer.gif" width="350" >
+<img align="left" src="./octocat_computer.gif" width="330" >
 &nbsp;
 &nbsp;
 &nbsp;
