@@ -10,29 +10,22 @@
 
 А теперь немного фактов обо мне:
 
-- <img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/>  Имею высшее образование в сфере IT 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/>  Имею высшее образование в сфере IT 
 
-- <img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> Закончила курс "Функциональное тестирование ПО"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> Закончила курс "Функциональное тестирование ПО"
 
-- <img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/> Специализируюсь на тестирование WEB и мобильных приложений
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/> Специализируюсь на тестирование WEB и мобильных приложений
 
-- <img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> Ознакомьтесь с моим резюме
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> Ознакомьтесь с моим резюме
 
-- <img width="25" height="25" src="https://img.icons8.com/nolan/96/fire-element.png" alt="fire-element"/> Случайный факт обо мне: люблю детективные игры <img width="25" height="25" src="https://img.icons8.com/nolan/96/search.png" alt="search"/> и танцевать <img width="25" height="25" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-ballet-russia-icongeek26-outline-gradient-icongeek26-1.png" alt="external-yoga-home-activity-photo3ideastudio-gradient-photo3ideastudio"/> 
-
-&nbsp;
-
-## Свяжитесь со мной
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/fire-element.png" alt="fire-element"/> Случайный факт обо мне: люблю детективные игры <img width="25" height="25" src="https://img.icons8.com/nolan/96/search.png" alt="search"/> и танцевать <img width="25" height="25" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-ballet-russia-icongeek26-outline-gradient-icongeek26-1.png" alt="external-yoga-home-activity-photo3ideastudio-gradient-photo3ideastudio"/> 
 
 
-  <div id="badges">
-    <a href="https://t.me/nikolaeva26" target="_blank">
-      <img align="center" src="https://img.icons8.com/nolan/64/telegram-app.png" width="50" height="50" alt="telegram" />
-    </a>
-    <a href="mailto:nikolanastya2611@gmail.com" target="_blank">
-      <img align="center" src="https://img.icons8.com/nolan/64/gmail-new.png" width="50" height="50" alt="gmail" />
-    </a>
-  </div>
 
 &nbsp;
 
@@ -101,5 +94,25 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+## Тестовые артефакты
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/>  [Тестирование веб-приложений](https://github.com/NikolaevaAR/web)
+
+&nbsp;
+
+## Свяжитесь со мной
+
+
+  <div id="badges">
+    <a href="https://t.me/nikolaeva26" target="_blank">
+      <img align="center" src="https://img.icons8.com/nolan/64/telegram-app.png" width="50" height="50" alt="telegram" />
+    </a>
+    <a href="mailto:nikolanastya2611@gmail.com" target="_blank">
+      <img align="center" src="https://img.icons8.com/nolan/64/gmail-new.png" width="50" height="50" alt="gmail" />
+    </a>
+  </div>
+
+  &nbsp;
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NikolaevaAR)
