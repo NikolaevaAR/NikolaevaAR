@@ -99,6 +99,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/>  [Тестирование веб-приложений](https://github.com/NikolaevaAR/web)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" alt="api"/> [Тестирование REST и SOAP API с помощью Postman](https://github.com/NikolaevaAR/api)
+
 &nbsp;
 
 ## Свяжитесь со мной
