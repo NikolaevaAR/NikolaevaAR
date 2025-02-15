@@ -100,7 +100,10 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/>  [Тестирование веб-приложений](https://github.com/NikolaevaAR/web)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" alt="api"/> [Тестирование REST и SOAP API с помощью Postman](https://github.com/NikolaevaAR/api)
+<img width="25" height="25" src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" alt="api"/> [Тестирование REST и SOAP API через Postman](https://github.com/NikolaevaAR/api)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/?size=100&id=43611&format=png&color=000000" alt="database"/> [Работа с базами данных (MySQL, MongoDB)](https://github.com/NikolaevaAR/database)
 
 &nbsp;
 
