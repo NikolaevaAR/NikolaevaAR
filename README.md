@@ -105,6 +105,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/?size=100&id=43611&format=png&color=000000" alt="database"/> [Работа с базами данных (MySQL, MongoDB)](https://github.com/NikolaevaAR/database)
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="30" height="30" src="https://img.icons8.com/nolan/96/two-smartphones.png" alt="two-smartphones"/> [Тестирование мобильных приложений](https://github.com/NikolaevaAR/mobile)
+
 &nbsp;
 
 ## Свяжитесь со мной
