@@ -112,6 +112,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/64/sorting-arrows-horizontal--v1.png" alt="traffic"/> [Перехват и изменение трафика](https://github.com/NikolaevaAR/traffic)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/console.png" alt="console"/> [Работа с Bash](https://github.com/NikolaevaAR/bash)
+
 &nbsp;
 
 ## Свяжитесь со мной
