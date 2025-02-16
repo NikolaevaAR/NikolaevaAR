@@ -1,35 +1,37 @@
 ![Header](./media/header_image.png)
+Привет! Меня зовут Настя, и я QA Engineer    <img width="30" height="30" src="https://img.icons8.com/nolan/96/hardworking--v2.png" alt="hardworking--v2"/> Моя миссия — находить и разоблачать ошибки, скрывающиеся в ПО. 
 
-## Обо мне:
+В этом досье собраны материалы о проведённых расследованиях в мире тестирования. Анализ улик (требований и макета), постановка экспериментов (чек-листы, тест-кейсы) и составление детального отчёта о раскрытых преступлениях (баг-репортов) — всё здесь.
+
+Загляните ниже, если хотите увидеть, как баги попадают в поле зрения QA-детектива!
+
+## О детективе:
 
 <img align="right" src="./media/octocat_detective.gif" width="260">
 
-Привет! Меня зовут Настя, и я QA Engineer    <img width="30" height="30" src="https://img.icons8.com/nolan/96/hardworking--v2.png" alt="hardworking--v2"/>
-
-В этом репозитории собраны тестовые артефакты, созданные мной. Вы можете ознакомиться с ними ниже.
-
-А теперь немного фактов обо мне:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/>  Имею высшее образование в сфере IT 
+<img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/> **Образование:** высшее в сфере IT 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> Закончила курс "Функциональное тестирование ПО"
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> **Квалификация:** окончила курс ["Функциональное тестирование ПО"](https://rusau.net/qa-from-scratch)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/> Специализируюсь на тестирование WEB и мобильных приложений
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/> **Специализация:** тестирование WEB и мобильных приложений
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> Ознакомьтесь с моим резюме
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> **Материалы:** мое резюме
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/fire-element.png" alt="fire-element"/> Случайный факт обо мне: люблю детективные игры <img width="25" height="25" src="https://img.icons8.com/nolan/96/search.png" alt="search"/> и танцевать <img width="25" height="25" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-ballet-russia-icongeek26-outline-gradient-icongeek26-1.png" alt="external-yoga-home-activity-photo3ideastudio-gradient-photo3ideastudio"/> 
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/fire-element.png" alt="fire-element"/> **Вне службы:** люблю разгадывать детективные загадки <img width="25" height="25" src="https://img.icons8.com/nolan/96/search.png" alt="search"/> и танцевать <img width="25" height="25" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-ballet-russia-icongeek26-outline-gradient-icongeek26-1.png" alt="external-yoga-home-activity-photo3ideastudio-gradient-photo3ideastudio"/> 
 
 
 
 &nbsp;
 
-## Инструменты, которые я использую
+## Арсенал QA-детектива
+Каждому сыщику нужны надежные инструменты для раскрытия преступлений в коде. В моем арсенале есть всё, чтобы вывести баги на чистую воду.
+
 <img align="left" src="./media/octocat_computer.gif" width="260" >
 &nbsp;
 &nbsp;
@@ -95,7 +97,11 @@
 &nbsp;
 &nbsp;
 
-## Тестовые артефакты
+## Материалы расследований (Тестовые артефакты)
+В этом разделе собраны материалы, которые помогли вывести баги на чистую воду.
+
+<img align="right" src="./media/octocat.gif" width="370"> 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/>  [Тестирование веб-приложений](https://github.com/NikolaevaAR/web)
 
