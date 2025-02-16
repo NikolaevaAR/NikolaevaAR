@@ -115,6 +115,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/console.png" alt="console"/> [Работа с Bash](https://github.com/NikolaevaAR/bash)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="30" height="30" src="https://img.icons8.com/nolan/96/github.png" alt="github"/> [Работа с Git](https://github.com/NikolaevaAR/git) 
+
 &nbsp;
 
 ## Свяжитесь со мной
