@@ -14,13 +14,14 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/> **Образование:** высшее в сфере IT 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> **Квалификация:** окончила курс ["Функциональное тестирование ПО"](https://rusau.net/qa-from-scratch)
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> **Материалы:** [Резюме](https://drive.google.com/file/d/1wz6cYaPEY-hn1HAfff30KvDp78fyMD69/view?usp=sharing)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> **Квалификация:** окончила курс ["Функциональное тестирование ПО"](https://drive.google.com/file/d/1KcGVnoHNS5CJFB6hksJIXYVVg4kmFORw/view?usp=sharing)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/system-information.png" alt="system-information"/> **Специализация:** тестирование WEB и мобильных приложений
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> **Материалы:** [Резюме](https://drive.google.com/file/d/1wz6cYaPEY-hn1HAfff30KvDp78fyMD69/view?usp=sharing)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/fire-element.png" alt="fire-element"/> **Вне службы:** люблю разгадывать детективные загадки <img width="25" height="25" src="https://img.icons8.com/nolan/96/search.png" alt="search"/> и танцевать <img width="25" height="25" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/external-ballet-russia-icongeek26-outline-gradient-icongeek26-1.png" alt="external-yoga-home-activity-photo3ideastudio-gradient-photo3ideastudio"/> 
