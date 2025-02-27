@@ -14,7 +14,7 @@
 <img width="25" height="25" src="https://img.icons8.com/nolan/64/graduation-cap.png" alt="woman-at-computer"/> **Образование:** высшее в сфере IT 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> **Материалы:** [Резюме](https://drive.google.com/file/d/1wz6cYaPEY-hn1HAfff30KvDp78fyMD69/view?usp=sharing)
+<img width="25" height="25" src="https://img.icons8.com/nolan/96/resume.png" alt="resume"/> **Материалы:** [Резюме](https://drive.google.com/file/d/19EHiaUBlWMj0vuhm5yHI83m00wbLh540/view?usp=sharing)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="25" height="25" src="https://img.icons8.com/nolan/96/bug.png" alt="bug"/> **Квалификация:** окончила курс ["Функциональное тестирование ПО"](https://drive.google.com/file/d/1KcGVnoHNS5CJFB6hksJIXYVVg4kmFORw/view?usp=sharing)
